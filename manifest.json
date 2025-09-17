@@ -1,0 +1,37 @@
+{
+    "name": "Legend Of Fireballt",
+    "short_name": "Legend Of Fireball",
+    "description": "Upgrade your abilities with rewards and collect various fireballs and costumes to become a stronger fireball king!",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "id": "TapNationSAS.LegendofFireball",
+    "ms_start_compatible": true,
+    "publisher": "TapNation SAS",
+    "dir": "auto",
+    "orientation": "any",
+    "version": "1.0.0",
+    "categories": [
+        "games"
+    ],
+    "launch_handler": {
+        "client_mode": "auto"
+    },
+    "icons": [
+        {
+            "src": "icon-1920x1080.png",
+            "sizes": "1920x1080",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+
+}
+
+
+
